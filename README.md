@@ -43,11 +43,9 @@ There exists a positve correlation between the production budget and the average
 4. Thrillers are also recommended for a start as they have a low cost production budget.
 
 ### Repository Guide
-> The raw data used for the project can be found 
-> The cleaned data can be found 
-> The images from EDA can be found 
-> The notebook that contains the project can be found 
-> The presentation for this project can be found
+> The raw data used for the project can be found[here](https://www.imdb.com/)
+> The notebook that contains the project can be found [here](https://github.com/CMK19/Project-X/blob/main/Project-XNotebook.ipynb)
+> The presentation for this project can be found[here](https://github.com/CMK19/Project-X/blob/main/MICROSOFTPROJECT.pdf)
 
 
 
